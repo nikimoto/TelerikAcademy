@@ -1,0 +1,3 @@
+TelerikAcademy
+==============
+Some homework tasks.
