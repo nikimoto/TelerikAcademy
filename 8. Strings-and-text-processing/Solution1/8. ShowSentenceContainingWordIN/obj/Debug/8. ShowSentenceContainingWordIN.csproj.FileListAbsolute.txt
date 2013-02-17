@@ -1,0 +1,6 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\8. ShowSentenceContainingWordIN\bin\Debug\_8.ShowSentenceContainingWordIN.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\8. ShowSentenceContainingWordIN\bin\Debug\_8.ShowSentenceContainingWordIN.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\8. ShowSentenceContainingWordIN\bin\Debug\_8.ShowSentenceContainingWordIN.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\8. ShowSentenceContainingWordIN\obj\Debug\8. ShowSentenceContainingWordIN.csprojResolveAssemblyReference.cache
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\8. ShowSentenceContainingWordIN\obj\Debug\_8.ShowSentenceContainingWordIN.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\8. ShowSentenceContainingWordIN\obj\Debug\_8.ShowSentenceContainingWordIN.pdb

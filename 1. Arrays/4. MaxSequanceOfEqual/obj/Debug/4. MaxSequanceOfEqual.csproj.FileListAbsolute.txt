@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\4. MaxSequanceOfEqual\bin\Debug\_4.MaxSequanceOfEqual.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\4. MaxSequanceOfEqual\bin\Debug\_4.MaxSequanceOfEqual.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\4. MaxSequanceOfEqual\bin\Debug\_4.MaxSequanceOfEqual.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\4. MaxSequanceOfEqual\obj\Debug\_4.MaxSequanceOfEqual.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\4. MaxSequanceOfEqual\obj\Debug\_4.MaxSequanceOfEqual.pdb

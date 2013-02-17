@@ -1,0 +1,9 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\4. CountNumberInArray\bin\Debug\_4.CountNumberInArray.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\4. CountNumberInArray\bin\Debug\_4.CountNumberInArray.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\4. CountNumberInArray\bin\Debug\_4.CountNumberInArray.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\4. CountNumberInArray\obj\Debug\4. CountNumberInArray.csprojResolveAssemblyReference.cache
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\4. CountNumberInArray\obj\Debug\_4.CountNumberInArray.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\4. CountNumberInArray\obj\Debug\_4.CountNumberInArray.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\Solution1\4. CountNumberInArray\bin\Debug\_4.CountNumberInArray.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\Solution1\4. CountNumberInArray\obj\Debug\_4.CountNumberInArray.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\Solution1\4. CountNumberInArray\obj\Debug\_4.CountNumberInArray.pdb

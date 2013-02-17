@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\8. ReplaceWithRegularExspr\bin\Debug\_8.ReplaceWithRegularExspr.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\8. ReplaceWithRegularExspr\bin\Debug\_8.ReplaceWithRegularExspr.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\8. ReplaceWithRegularExspr\bin\Debug\_8.ReplaceWithRegularExspr.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\8. ReplaceWithRegularExspr\obj\Debug\_8.ReplaceWithRegularExspr.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\8. ReplaceWithRegularExspr\obj\Debug\_8.ReplaceWithRegularExspr.pdb

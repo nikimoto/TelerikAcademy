@@ -1,0 +1,6 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\12. RemoveAllWordsFromListed\bin\Debug\_12.RemoveAllWordsFromListed.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\12. RemoveAllWordsFromListed\bin\Debug\_12.RemoveAllWordsFromListed.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\12. RemoveAllWordsFromListed\bin\Debug\_12.RemoveAllWordsFromListed.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\12. RemoveAllWordsFromListed\obj\Debug\12. RemoveAllWordsFromListed.csprojResolveAssemblyReference.cache
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\12. RemoveAllWordsFromListed\obj\Debug\_12.RemoveAllWordsFromListed.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\12. RemoveAllWordsFromListed\obj\Debug\_12.RemoveAllWordsFromListed.pdb

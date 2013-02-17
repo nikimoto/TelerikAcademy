@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\16. SubsetSum\bin\Debug\_16.SubsetSum.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\16. SubsetSum\bin\Debug\_16.SubsetSum.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\16. SubsetSum\bin\Debug\_16.SubsetSum.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\16. SubsetSum\obj\Debug\_16.SubsetSum.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\16. SubsetSum\obj\Debug\_16.SubsetSum.pdb

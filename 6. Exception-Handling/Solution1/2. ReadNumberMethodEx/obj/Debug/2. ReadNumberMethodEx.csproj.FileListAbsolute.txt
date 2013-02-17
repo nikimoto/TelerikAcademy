@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\6. Exception-Handling\Solution1\2. ReadNumberMethodEx\bin\Debug\_2.ReadNumberMethodEx.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\6. Exception-Handling\Solution1\2. ReadNumberMethodEx\bin\Debug\_2.ReadNumberMethodEx.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\6. Exception-Handling\Solution1\2. ReadNumberMethodEx\bin\Debug\_2.ReadNumberMethodEx.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\6. Exception-Handling\Solution1\2. ReadNumberMethodEx\obj\Debug\_2.ReadNumberMethodEx.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\6. Exception-Handling\Solution1\2. ReadNumberMethodEx\obj\Debug\_2.ReadNumberMethodEx.pdb

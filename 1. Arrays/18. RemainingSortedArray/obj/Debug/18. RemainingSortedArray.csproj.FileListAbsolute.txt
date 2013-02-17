@@ -1,0 +1,1 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\18. RemainingSortedArray\bin\Debug\_18.RemainingSortedArray.exe.config

@@ -1,0 +1,6 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\13. MenuForMultypleTasks\bin\Debug\_13.MenuForMultypleTasks.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\13. MenuForMultypleTasks\bin\Debug\_13.MenuForMultypleTasks.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\13. MenuForMultypleTasks\bin\Debug\_13.MenuForMultypleTasks.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\13. MenuForMultypleTasks\obj\Debug\13. MenuForMultypleTasks.csprojResolveAssemblyReference.cache
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\13. MenuForMultypleTasks\obj\Debug\_13.MenuForMultypleTasks.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\13. MenuForMultypleTasks\obj\Debug\_13.MenuForMultypleTasks.pdb

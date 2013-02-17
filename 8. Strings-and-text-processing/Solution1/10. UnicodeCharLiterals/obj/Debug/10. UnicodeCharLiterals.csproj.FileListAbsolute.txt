@@ -1,0 +1,1 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\10. UnicodeCharLiterals\bin\Debug\_10.UnicodeCharLiterals.exe.config

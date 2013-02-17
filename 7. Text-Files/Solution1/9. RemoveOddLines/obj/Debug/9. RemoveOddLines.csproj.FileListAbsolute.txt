@@ -1,0 +1,6 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\9. RemoveOddLines\bin\Debug\_9.RemoveOddLines.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\9. RemoveOddLines\bin\Debug\_9.RemoveOddLines.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\9. RemoveOddLines\bin\Debug\_9.RemoveOddLines.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\9. RemoveOddLines\obj\Debug\9. RemoveOddLines.csprojResolveAssemblyReference.cache
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\9. RemoveOddLines\obj\Debug\_9.RemoveOddLines.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\9. RemoveOddLines\obj\Debug\_9.RemoveOddLines.pdb

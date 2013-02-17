@@ -1,0 +1,6 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\10. TextWithoutTags\bin\Debug\_10.TextWithoutTags.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\10. TextWithoutTags\obj\Debug\10. TextWithoutTags.csprojResolveAssemblyReference.cache
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\10. TextWithoutTags\bin\Debug\_10.TextWithoutTags.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\10. TextWithoutTags\bin\Debug\_10.TextWithoutTags.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\10. TextWithoutTags\obj\Debug\_10.TextWithoutTags.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\10. TextWithoutTags\obj\Debug\_10.TextWithoutTags.pdb

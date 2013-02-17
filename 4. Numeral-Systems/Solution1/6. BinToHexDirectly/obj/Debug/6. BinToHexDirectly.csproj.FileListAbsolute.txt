@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\4. Numeral-Systems\Solution1\6. BinToHexDirectly\bin\Debug\_6.BinToHexDirectly.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\4. Numeral-Systems\Solution1\6. BinToHexDirectly\bin\Debug\_6.BinToHexDirectly.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\4. Numeral-Systems\Solution1\6. BinToHexDirectly\bin\Debug\_6.BinToHexDirectly.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\4. Numeral-Systems\Solution1\6. BinToHexDirectly\obj\Debug\_6.BinToHexDirectly.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\4. Numeral-Systems\Solution1\6. BinToHexDirectly\obj\Debug\_6.BinToHexDirectly.pdb

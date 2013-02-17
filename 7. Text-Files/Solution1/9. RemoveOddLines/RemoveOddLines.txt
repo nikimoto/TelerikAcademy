@@ -1,0 +1,47 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.IO;
+
+class RemoveOddLines
+{
+    static string fileName = @"..\..\RemoveOddLines.txt";
+
+    static List<string> GetEvenLines(string filename)
+    {
+        List<string> evenLines = new List<string>();
+        int counter = 1;
+
+        using (StreamReader reader = new StreamReader(filename))
+        {
+            string line = reader.ReadLine();
+            while (line != null)
+            {
+                if (counter % 2 == 0)
+                {
+                    evenLines.Add(line);
+                }
+                counter++;
+                line = reader.ReadLine();
+            }
+        }
+        return evenLines;
+    }
+
+    static void EditFile(List<string> lines)
+    {
+        using (StreamWriter writer = new StreamWriter(fileName))
+        {
+            for (int i = 0; i < lines.Count; i++)
+            {
+                writer.WriteLine("Line {0}: {1}", i + 1, lines[i]);
+            }
+        }
+    }
+
+    static void Main()
+    {
+        EditFile(GetEvenLines(fileName));
+    }
+}

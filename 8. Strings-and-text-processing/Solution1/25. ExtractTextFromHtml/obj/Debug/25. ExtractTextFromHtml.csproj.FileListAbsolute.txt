@@ -1,0 +1,1 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\25. ExtractTextFromHtml\bin\Debug\_25.ExtractTextFromHtml.exe.config

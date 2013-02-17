@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\17. SubsetSumWithKLength\bin\Debug\_17.SubsetSumWithKLength.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\17. SubsetSumWithKLength\bin\Debug\_17.SubsetSumWithKLength.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\17. SubsetSumWithKLength\bin\Debug\_17.SubsetSumWithKLength.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\17. SubsetSumWithKLength\obj\Debug\_17.SubsetSumWithKLength.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\17. SubsetSumWithKLength\obj\Debug\_17.SubsetSumWithKLength.pdb

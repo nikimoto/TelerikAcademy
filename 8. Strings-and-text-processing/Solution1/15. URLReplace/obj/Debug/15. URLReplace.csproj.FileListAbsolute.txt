@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\15. URLReplace\bin\Debug\_15.URLReplace.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\15. URLReplace\bin\Debug\_15.URLReplace.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\15. URLReplace\bin\Debug\_15.URLReplace.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\15. URLReplace\obj\Debug\_15.URLReplace.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\15. URLReplace\obj\Debug\_15.URLReplace.pdb

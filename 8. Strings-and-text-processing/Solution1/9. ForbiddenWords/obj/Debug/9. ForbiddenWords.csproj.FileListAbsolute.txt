@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\9. ForbiddenWords\bin\Debug\_9.ForbiddenWords.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\9. ForbiddenWords\bin\Debug\_9.ForbiddenWords.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\9. ForbiddenWords\bin\Debug\_9.ForbiddenWords.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\9. ForbiddenWords\obj\Debug\_9.ForbiddenWords.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\9. ForbiddenWords\obj\Debug\_9.ForbiddenWords.pdb

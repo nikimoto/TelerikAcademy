@@ -1,0 +1,6 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\12. PrintAlphabetIndex\bin\Debug\_12.PrintAlphabetIndex.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\12. PrintAlphabetIndex\bin\Debug\_12.PrintAlphabetIndex.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\12. PrintAlphabetIndex\bin\Debug\_12.PrintAlphabetIndex.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\12. PrintAlphabetIndex\obj\Debug\12. PrintAlphabetIndex.csprojResolveAssemblyReference.cache
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\12. PrintAlphabetIndex\obj\Debug\_12.PrintAlphabetIndex.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\12. PrintAlphabetIndex\obj\Debug\_12.PrintAlphabetIndex.pdb

@@ -1,0 +1,6 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\1. ReadFileAndPrintOddLines\bin\Debug\_1.ReadFileAndPrintOddLines.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\1. ReadFileAndPrintOddLines\bin\Debug\_1.ReadFileAndPrintOddLines.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\1. ReadFileAndPrintOddLines\bin\Debug\_1.ReadFileAndPrintOddLines.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\1. ReadFileAndPrintOddLines\obj\Debug\1. ReadFileAndPrintOddLines.csprojResolveAssemblyReference.cache
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\1. ReadFileAndPrintOddLines\obj\Debug\_1.ReadFileAndPrintOddLines.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\1. ReadFileAndPrintOddLines\obj\Debug\_1.ReadFileAndPrintOddLines.pdb

@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\8. SequenceOfMaxSum\bin\Debug\_8.SequenceOfMaxSum.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\8. SequenceOfMaxSum\bin\Debug\_8.SequenceOfMaxSum.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\8. SequenceOfMaxSum\bin\Debug\_8.SequenceOfMaxSum.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\8. SequenceOfMaxSum\obj\Debug\_8.SequenceOfMaxSum.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\8. SequenceOfMaxSum\obj\Debug\_8.SequenceOfMaxSum.pdb

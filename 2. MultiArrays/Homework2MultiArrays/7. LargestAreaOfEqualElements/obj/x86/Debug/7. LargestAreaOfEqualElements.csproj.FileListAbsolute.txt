@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\2. MultiArrays\Homework2MultiArrays\7. LargestAreaOfEqualElements\bin\Debug\_7.LargestAreaOfEqualElements.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\2. MultiArrays\Homework2MultiArrays\7. LargestAreaOfEqualElements\bin\Debug\_7.LargestAreaOfEqualElements.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\2. MultiArrays\Homework2MultiArrays\7. LargestAreaOfEqualElements\obj\x86\Debug\7. LargestAreaOfEqualElements.csprojResolveAssemblyReference.cache
+E:\Nikimoto\Telerik\C# II\Homeworks\2. MultiArrays\Homework2MultiArrays\7. LargestAreaOfEqualElements\obj\x86\Debug\_7.LargestAreaOfEqualElements.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\2. MultiArrays\Homework2MultiArrays\7. LargestAreaOfEqualElements\obj\x86\Debug\_7.LargestAreaOfEqualElements.pdb

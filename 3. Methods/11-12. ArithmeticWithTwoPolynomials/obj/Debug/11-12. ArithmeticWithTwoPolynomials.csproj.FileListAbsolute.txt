@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\11-12. ArithmeticWithTwoPolynomials\bin\Debug\_11_12.ArithmeticWithTwoPolynomials.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\11-12. ArithmeticWithTwoPolynomials\bin\Debug\_11_12.ArithmeticWithTwoPolynomials.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\11-12. ArithmeticWithTwoPolynomials\bin\Debug\_11_12.ArithmeticWithTwoPolynomials.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\11-12. ArithmeticWithTwoPolynomials\obj\Debug\_11_12.ArithmeticWithTwoPolynomials.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\11-12. ArithmeticWithTwoPolynomials\obj\Debug\_11_12.ArithmeticWithTwoPolynomials.pdb

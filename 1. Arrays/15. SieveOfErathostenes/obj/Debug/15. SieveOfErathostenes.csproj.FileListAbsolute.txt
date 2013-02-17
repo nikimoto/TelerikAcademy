@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\15. SieveOfErathostenes\bin\Debug\_15.SieveOfErathostenes.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\15. SieveOfErathostenes\bin\Debug\_15.SieveOfErathostenes.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\15. SieveOfErathostenes\bin\Debug\_15.SieveOfErathostenes.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\15. SieveOfErathostenes\obj\Debug\_15.SieveOfErathostenes.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\15. SieveOfErathostenes\obj\Debug\_15.SieveOfErathostenes.pdb

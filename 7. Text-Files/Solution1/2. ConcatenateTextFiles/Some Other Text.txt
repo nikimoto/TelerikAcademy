@@ -1,0 +1,2 @@
+This is text from other text file!
+Hello again!

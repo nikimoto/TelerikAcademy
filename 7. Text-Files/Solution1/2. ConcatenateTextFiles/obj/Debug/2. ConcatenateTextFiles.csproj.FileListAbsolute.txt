@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\2. ConcatenateTextFiles\bin\Debug\_2.ConcatenateTextFiles.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\2. ConcatenateTextFiles\bin\Debug\_2.ConcatenateTextFiles.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\2. ConcatenateTextFiles\bin\Debug\_2.ConcatenateTextFiles.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\2. ConcatenateTextFiles\obj\Debug\_2.ConcatenateTextFiles.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\2. ConcatenateTextFiles\obj\Debug\_2.ConcatenateTextFiles.pdb

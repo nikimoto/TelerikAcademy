@@ -1,0 +1,6 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\19. ExtractAllMatchesDates\bin\Debug\_19.ExtractAllMatchesDates.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\19. ExtractAllMatchesDates\bin\Debug\_19.ExtractAllMatchesDates.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\19. ExtractAllMatchesDates\bin\Debug\_19.ExtractAllMatchesDates.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\19. ExtractAllMatchesDates\obj\Debug\19. ExtractAllMatchesDates.csprojResolveAssemblyReference.cache
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\19. ExtractAllMatchesDates\obj\Debug\_19.ExtractAllMatchesDates.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\19. ExtractAllMatchesDates\obj\Debug\_19.ExtractAllMatchesDates.pdb

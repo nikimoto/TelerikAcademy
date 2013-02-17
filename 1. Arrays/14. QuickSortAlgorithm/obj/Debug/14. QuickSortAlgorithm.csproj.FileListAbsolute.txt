@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\14. QuickSortAlgorithm\bin\Debug\_14.QuickSortAlgorithm.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\14. QuickSortAlgorithm\bin\Debug\_14.QuickSortAlgorithm.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\14. QuickSortAlgorithm\bin\Debug\_14.QuickSortAlgorithm.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\14. QuickSortAlgorithm\obj\Debug\_14.QuickSortAlgorithm.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\14. QuickSortAlgorithm\obj\Debug\_14.QuickSortAlgorithm.pdb

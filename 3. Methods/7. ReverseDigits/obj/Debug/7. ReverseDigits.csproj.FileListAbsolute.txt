@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\7. ReverseDigits\bin\Debug\_7.ReverseDigits.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\7. ReverseDigits\bin\Debug\_7.ReverseDigits.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\7. ReverseDigits\bin\Debug\_7.ReverseDigits.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\7. ReverseDigits\obj\Debug\_7.ReverseDigits.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\7. ReverseDigits\obj\Debug\_7.ReverseDigits.pdb

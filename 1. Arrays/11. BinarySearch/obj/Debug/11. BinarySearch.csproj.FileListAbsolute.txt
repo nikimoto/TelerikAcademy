@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\11. BinarySearch\bin\Debug\_11.BinarySearch.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\11. BinarySearch\bin\Debug\_11.BinarySearch.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\11. BinarySearch\bin\Debug\_11.BinarySearch.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\11. BinarySearch\obj\Debug\_11.BinarySearch.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\11. BinarySearch\obj\Debug\_11.BinarySearch.pdb

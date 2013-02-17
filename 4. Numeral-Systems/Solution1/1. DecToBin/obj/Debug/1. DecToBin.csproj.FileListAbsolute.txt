@@ -1,0 +1,1 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\4. Numeral-Systems\Solution1\1. DecToBin\bin\Debug\_1.DecToBin.exe.config

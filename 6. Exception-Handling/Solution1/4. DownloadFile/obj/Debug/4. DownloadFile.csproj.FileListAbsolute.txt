@@ -1,0 +1,1 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\6. Exception-Handling\Solution1\4. DownloadFile\bin\Debug\_4.DownloadFile.exe.config

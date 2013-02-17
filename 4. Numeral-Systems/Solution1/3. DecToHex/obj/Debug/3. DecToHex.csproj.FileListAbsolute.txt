@@ -1,0 +1,1 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\4. Numeral-Systems\Solution1\3. DecToHex\bin\Debug\_3.DecToHex.exe.config

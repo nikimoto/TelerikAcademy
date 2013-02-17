@@ -1,0 +1,6 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\21. CombinationsK\bin\Debug\_21.CombinationsK.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\21. CombinationsK\bin\Debug\_21.CombinationsK.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\21. CombinationsK\bin\Debug\_21.CombinationsK.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\21. CombinationsK\obj\Debug\21. CombinationsK.csprojResolveAssemblyReference.cache
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\21. CombinationsK\obj\Debug\_21.CombinationsK.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\21. CombinationsK\obj\Debug\_21.CombinationsK.pdb

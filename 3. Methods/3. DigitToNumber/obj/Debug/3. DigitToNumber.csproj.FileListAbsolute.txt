@@ -1,0 +1,6 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\3. DigitToNumber\bin\Debug\_3.DigitToNumber.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\3. DigitToNumber\bin\Debug\_3.DigitToNumber.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\3. DigitToNumber\bin\Debug\_3.DigitToNumber.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\3. DigitToNumber\obj\Debug\3. DigitToNumber.csprojResolveAssemblyReference.cache
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\3. DigitToNumber\obj\Debug\_3.DigitToNumber.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\3. DigitToNumber\obj\Debug\_3.DigitToNumber.pdb

@@ -1,0 +1,6 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\11. PrintFormatedNumber\bin\Debug\_11.PrintFormatedNumber.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\11. PrintFormatedNumber\bin\Debug\_11.PrintFormatedNumber.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\11. PrintFormatedNumber\bin\Debug\_11.PrintFormatedNumber.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\11. PrintFormatedNumber\obj\Debug\11. PrintFormatedNumber.csprojResolveAssemblyReference.cache
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\11. PrintFormatedNumber\obj\Debug\_11.PrintFormatedNumber.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\11. PrintFormatedNumber\obj\Debug\_11.PrintFormatedNumber.pdb

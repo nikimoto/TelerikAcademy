@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\13. ReverseSentence\bin\Debug\_13.ReverseSentence.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\13. ReverseSentence\bin\Debug\_13.ReverseSentence.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\13. ReverseSentence\bin\Debug\_13.ReverseSentence.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\13. ReverseSentence\obj\Debug\_13.ReverseSentence.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\13. ReverseSentence\obj\Debug\_13.ReverseSentence.pdb

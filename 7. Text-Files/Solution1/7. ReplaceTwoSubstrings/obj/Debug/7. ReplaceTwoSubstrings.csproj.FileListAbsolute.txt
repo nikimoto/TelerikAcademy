@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\7. ReplaceTwoSubstrings\bin\Debug\_7.ReplaceTwoSubstrings.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\7. ReplaceTwoSubstrings\bin\Debug\_7.ReplaceTwoSubstrings.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\7. ReplaceTwoSubstrings\bin\Debug\_7.ReplaceTwoSubstrings.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\7. ReplaceTwoSubstrings\obj\Debug\_7.ReplaceTwoSubstrings.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\7. ReplaceTwoSubstrings\obj\Debug\_7.ReplaceTwoSubstrings.pdb

@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\10. SequenceOfGivenSum\bin\Debug\_10.SequenceOfGivenSum.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\10. SequenceOfGivenSum\bin\Debug\_10.SequenceOfGivenSum.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\10. SequenceOfGivenSum\bin\Debug\_10.SequenceOfGivenSum.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\10. SequenceOfGivenSum\obj\Debug\_10.SequenceOfGivenSum.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\10. SequenceOfGivenSum\obj\Debug\_10.SequenceOfGivenSum.pdb

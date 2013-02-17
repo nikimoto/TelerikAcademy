@@ -1,0 +1,4 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\2. MultiArrays\Homework2MultiArrays\2. MaxPlatform3x3\bin\Debug\_2.MaxPlatform3x3.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\2. MultiArrays\Homework2MultiArrays\2. MaxPlatform3x3\bin\Debug\_2.MaxPlatform3x3.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\2. MultiArrays\Homework2MultiArrays\2. MaxPlatform3x3\obj\x86\Debug\_2.MaxPlatform3x3.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\2. MultiArrays\Homework2MultiArrays\2. MaxPlatform3x3\obj\x86\Debug\_2.MaxPlatform3x3.pdb

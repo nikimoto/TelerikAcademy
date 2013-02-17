@@ -1,0 +1,1 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\22. WordsCount\bin\Debug\_22.WordsCount.exe.config

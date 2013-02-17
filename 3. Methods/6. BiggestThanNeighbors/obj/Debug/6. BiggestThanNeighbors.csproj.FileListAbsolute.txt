@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\6. BiggestThanNeighbors\bin\Debug\_6.BiggestThanNeighbors.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\6. BiggestThanNeighbors\bin\Debug\_6.BiggestThanNeighbors.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\6. BiggestThanNeighbors\bin\Debug\_6.BiggestThanNeighbors.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\6. BiggestThanNeighbors\obj\Debug\_6.BiggestThanNeighbors.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\3. Methods\6. BiggestThanNeighbors\obj\Debug\_6.BiggestThanNeighbors.pdb

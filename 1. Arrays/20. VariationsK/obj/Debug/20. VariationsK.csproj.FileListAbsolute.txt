@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\20. VariationsK\bin\Debug\_20.VariationsK.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\20. VariationsK\bin\Debug\_20.VariationsK.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\20. VariationsK\bin\Debug\_20.VariationsK.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\20. VariationsK\obj\Debug\_20.VariationsK.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\20. VariationsK\obj\Debug\_20.VariationsK.pdb

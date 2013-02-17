@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\6. SortingNamesInFiles\bin\Debug\_6.SortingNamesInFiles.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\6. SortingNamesInFiles\bin\Debug\_6.SortingNamesInFiles.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\6. SortingNamesInFiles\bin\Debug\_6.SortingNamesInFiles.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\6. SortingNamesInFiles\obj\Debug\_6.SortingNamesInFiles.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\6. SortingNamesInFiles\obj\Debug\_6.SortingNamesInFiles.pdb

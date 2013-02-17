@@ -1,0 +1,1 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\5. UpcaseTag\bin\Debug\_5.UpcaseTag.exe.config

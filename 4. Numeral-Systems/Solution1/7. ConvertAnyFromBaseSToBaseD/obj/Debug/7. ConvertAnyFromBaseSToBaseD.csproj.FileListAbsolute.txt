@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\4. Numeral-Systems\Solution1\7. ConvertAnyFromBaseSToBaseD\bin\Debug\_7.ConvertAnyFromBaseSToBaseD.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\4. Numeral-Systems\Solution1\7. ConvertAnyFromBaseSToBaseD\bin\Debug\_7.ConvertAnyFromBaseSToBaseD.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\4. Numeral-Systems\Solution1\7. ConvertAnyFromBaseSToBaseD\bin\Debug\_7.ConvertAnyFromBaseSToBaseD.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\4. Numeral-Systems\Solution1\7. ConvertAnyFromBaseSToBaseD\obj\Debug\_7.ConvertAnyFromBaseSToBaseD.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\4. Numeral-Systems\Solution1\7. ConvertAnyFromBaseSToBaseD\obj\Debug\_7.ConvertAnyFromBaseSToBaseD.pdb

@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\3. InsertLineNumbers\bin\Debug\_3.InsertLineNumbers.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\3. InsertLineNumbers\bin\Debug\_3.InsertLineNumbers.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\3. InsertLineNumbers\bin\Debug\_3.InsertLineNumbers.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\3. InsertLineNumbers\obj\Debug\_3.InsertLineNumbers.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\3. InsertLineNumbers\obj\Debug\_3.InsertLineNumbers.pdb

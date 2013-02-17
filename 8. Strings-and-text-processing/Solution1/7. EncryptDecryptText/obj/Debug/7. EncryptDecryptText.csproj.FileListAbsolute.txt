@@ -1,0 +1,1 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\7. EncryptDecryptText\bin\Debug\_7.EncryptDecryptText.exe.config

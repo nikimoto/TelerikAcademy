@@ -1,0 +1,5 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\6. KElementsWithMaxSum\bin\Debug\_6.KElementsWithMaxSum.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\6. KElementsWithMaxSum\bin\Debug\_6.KElementsWithMaxSum.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\6. KElementsWithMaxSum\bin\Debug\_6.KElementsWithMaxSum.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\6. KElementsWithMaxSum\obj\Debug\_6.KElementsWithMaxSum.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\6. KElementsWithMaxSum\obj\Debug\_6.KElementsWithMaxSum.pdb

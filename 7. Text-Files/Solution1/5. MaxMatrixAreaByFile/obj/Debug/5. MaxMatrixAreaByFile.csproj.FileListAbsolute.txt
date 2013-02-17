@@ -1,0 +1,6 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\5. MaxMatrixAreaByFile\bin\Debug\_5.MaxMatrixAreaByFile.exe.config
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\5. MaxMatrixAreaByFile\bin\Debug\_5.MaxMatrixAreaByFile.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\5. MaxMatrixAreaByFile\bin\Debug\_5.MaxMatrixAreaByFile.pdb
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\5. MaxMatrixAreaByFile\obj\Debug\5. MaxMatrixAreaByFile.csprojResolveAssemblyReference.cache
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\5. MaxMatrixAreaByFile\obj\Debug\_5.MaxMatrixAreaByFile.exe
+E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\5. MaxMatrixAreaByFile\obj\Debug\_5.MaxMatrixAreaByFile.pdb

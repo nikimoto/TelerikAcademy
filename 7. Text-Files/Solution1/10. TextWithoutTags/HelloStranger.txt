@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title> Hello</title>
+</head>
+<body>
+    <div> Hello, Stranger! </div>
+    <h1> Welcome to Runners Home&#0153 </h1>
+
+    <div> Runners Home&#0153 is dedicated to providing you with: <br/>
+        - the most up-yo-date information on running races <br/>
+        - the best resources for runners.
+    </div>
+    <hr/>
+    <div>
+        &copy 2007 Runners Home. All rights reserved.
+    </div>
+
+</body>
+</html>
