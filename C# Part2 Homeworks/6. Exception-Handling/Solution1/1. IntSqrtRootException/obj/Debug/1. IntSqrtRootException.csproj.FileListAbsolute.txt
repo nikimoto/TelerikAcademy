@@ -1,1 +1,0 @@
-E:\Nikimoto\Telerik\C# II\Homeworks\6. Exception-Handling\Solution1\1. IntSqrtRootException\bin\Debug\_1.IntSqrtRootException.exe.config

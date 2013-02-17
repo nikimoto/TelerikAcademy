@@ -1,5 +1,0 @@
-E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\00. Demo\bin\Debug\_00.Demo.exe.config
-E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\00. Demo\bin\Debug\_00.Demo.exe
-E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\00. Demo\bin\Debug\_00.Demo.pdb
-E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\00. Demo\obj\Debug\_00.Demo.exe
-E:\Nikimoto\Telerik\C# II\Homeworks\7. Text-Files\Solution1\00. Demo\obj\Debug\_00.Demo.pdb

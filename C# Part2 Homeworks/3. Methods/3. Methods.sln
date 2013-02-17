@@ -15,8 +15,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. BiggestThanNeighbors", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. ReverseDigits", "7. ReverseDigits\7. ReverseDigits.csproj", "{CF30DD05-C1BC-49F7-94C9-980934F88773}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00. Demos", "00. Demos\00. Demos.csproj", "{2079F9C2-0530-40F8-B6D3-0213C2FA9B13}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. AddTwoPositiveNumbers", "8. AddTwoPositiveNumbers\8. AddTwoPositiveNumbers.csproj", "{86940FD1-37EA-4AC8-8EE5-C330D9B6CD1E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. MaxElementAtGivenIndex", "9. MaxElementAtGivenIndex\9. MaxElementAtGivenIndex.csproj", "{8376A2DE-4731-4B77-B6B2-BAE055042D0D}"
@@ -63,10 +61,6 @@ Global
 		{CF30DD05-C1BC-49F7-94C9-980934F88773}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF30DD05-C1BC-49F7-94C9-980934F88773}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF30DD05-C1BC-49F7-94C9-980934F88773}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2079F9C2-0530-40F8-B6D3-0213C2FA9B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2079F9C2-0530-40F8-B6D3-0213C2FA9B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2079F9C2-0530-40F8-B6D3-0213C2FA9B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2079F9C2-0530-40F8-B6D3-0213C2FA9B13}.Release|Any CPU.Build.0 = Release|Any CPU
 		{86940FD1-37EA-4AC8-8EE5-C330D9B6CD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{86940FD1-37EA-4AC8-8EE5-C330D9B6CD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86940FD1-37EA-4AC8-8EE5-C330D9B6CD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU

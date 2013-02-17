@@ -1,6 +1,0 @@
-E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\00. Test\bin\Debug\_00.Test.exe.config
-E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\00. Test\bin\Debug\_00.Test.exe
-E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\00. Test\bin\Debug\_00.Test.pdb
-E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\00. Test\obj\Debug\_00.Test.exe
-E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\00. Test\obj\Debug\_00.Test.pdb
-E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\00. Test\obj\Debug\00. Test.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\4. Numeral-Systems\Solution1\1. DecToBin\bin\Debug\_1.DecToBin.exe.config
+C:\Users\Ani\Documents\GitHub\TelerikAcademy\C# Part2 Homeworks\4. Numeral-Systems\Solution1\1. DecToBin\bin\Debug\_1.DecToBin.exe.config
+C:\Users\Ani\Documents\GitHub\TelerikAcademy\C# Part2 Homeworks\4. Numeral-Systems\1. DecToBin\bin\Debug\_1.DecToBin.exe.config
+C:\Users\Ani\Documents\GitHub\TelerikAcademy\C# Part2 Homeworks\4. Numeral-Systems\1. DecToBin\bin\Debug\_1.DecToBin.exe
+C:\Users\Ani\Documents\GitHub\TelerikAcademy\C# Part2 Homeworks\4. Numeral-Systems\1. DecToBin\bin\Debug\_1.DecToBin.pdb
+C:\Users\Ani\Documents\GitHub\TelerikAcademy\C# Part2 Homeworks\4. Numeral-Systems\1. DecToBin\obj\Debug\1. DecToBin.csprojResolveAssemblyReference.cache
+C:\Users\Ani\Documents\GitHub\TelerikAcademy\C# Part2 Homeworks\4. Numeral-Systems\1. DecToBin\obj\Debug\_1.DecToBin.exe
+C:\Users\Ani\Documents\GitHub\TelerikAcademy\C# Part2 Homeworks\4. Numeral-Systems\1. DecToBin\obj\Debug\_1.DecToBin.pdb

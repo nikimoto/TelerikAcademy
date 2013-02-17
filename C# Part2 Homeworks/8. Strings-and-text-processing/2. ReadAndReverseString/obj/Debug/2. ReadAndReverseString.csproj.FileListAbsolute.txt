@@ -1,0 +1,7 @@
+E:\Nikimoto\Telerik\C# II\Homeworks\8. Strings-and-text-processing\Solution1\2. ReadAndReverseString\bin\Debug\_2.ReadAndReverseString.exe.config
+C:\Users\Ani\Documents\GitHub\TelerikAcademy\C# Part2 Homeworks\8. Strings-and-text-processing\2. ReadAndReverseString\bin\Debug\_2.ReadAndReverseString.exe.config
+C:\Users\Ani\Documents\GitHub\TelerikAcademy\C# Part2 Homeworks\8. Strings-and-text-processing\2. ReadAndReverseString\bin\Debug\_2.ReadAndReverseString.exe
+C:\Users\Ani\Documents\GitHub\TelerikAcademy\C# Part2 Homeworks\8. Strings-and-text-processing\2. ReadAndReverseString\bin\Debug\_2.ReadAndReverseString.pdb
+C:\Users\Ani\Documents\GitHub\TelerikAcademy\C# Part2 Homeworks\8. Strings-and-text-processing\2. ReadAndReverseString\obj\Debug\2. ReadAndReverseString.csprojResolveAssemblyReference.cache
+C:\Users\Ani\Documents\GitHub\TelerikAcademy\C# Part2 Homeworks\8. Strings-and-text-processing\2. ReadAndReverseString\obj\Debug\_2.ReadAndReverseString.exe
+C:\Users\Ani\Documents\GitHub\TelerikAcademy\C# Part2 Homeworks\8. Strings-and-text-processing\2. ReadAndReverseString\obj\Debug\_2.ReadAndReverseString.pdb

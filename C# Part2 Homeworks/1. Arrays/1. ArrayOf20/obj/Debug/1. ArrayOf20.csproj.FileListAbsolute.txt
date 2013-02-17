@@ -1,1 +1,2 @@
 E:\Nikimoto\Telerik\C# II\Homeworks\1. Arrays\1. ArrayOf20\bin\Debug\_1.ArrayOf20.exe.config
+C:\Users\Ani\Documents\GitHub\TelerikAcademy\C# Part2 Homeworks\1. Arrays\1. ArrayOf20\bin\Debug\_1.ArrayOf20.exe.config
